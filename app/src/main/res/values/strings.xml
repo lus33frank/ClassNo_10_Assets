@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">No:10_Assets(I/O)</string>
+    <string name="load_jpg">讀取圖檔</string>
+    <string name="load_txt">讀取純文字檔</string>
+    <string name="Hint_Text">我會顯示文字</string>
+</resources>
